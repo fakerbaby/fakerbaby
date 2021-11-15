@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fakerbaby&?theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fakerbaby)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fakerbaby/fakerbaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
