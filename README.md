@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🤔 I’m looking for an internship in academic research for NLP, especially in alignment and agents ...
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fakerbaby&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
