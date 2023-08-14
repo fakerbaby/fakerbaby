@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤔 I’m currently looking for an internship in academic research for NLP, especially in alignment for LLM ...
+- 🤔 I'm currently an intern at ByteDance AI Lab, working in the RAI (Responsible AI) team. My research work primarily focuses on RLHF (Reinforcement Learning with Human Feedback).
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fakerbaby&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
