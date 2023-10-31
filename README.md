@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤔 I'm currently an intern at ByteDance AI Lab, working in the RAI (Responsible AI) team. My research work primarily focuses on RLHF (Reinforcement Learning with Human Feedback).
+- 🤔 I'm currently an intern at ByteDance AI Lab, working in the RAI (Responsible AI) team. My research work primarily focuses on RLHF (Reinforcement Learning from Human Feedback).
 - Here is my [academic page](https://fakerbaby.github.io/)
 
   
