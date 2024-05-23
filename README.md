@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm actively seeking a research or engineering position in the market related to LLM Alignment or Agent. My research work primarily focuses on RLHF (Reinforcement Learning from Human Feedback).
+- My research work primarily focuses on RLHF (Reinforcement Learning from Human Feedback).
 - Here is my [academic page](https://fakerbaby.github.io/)
 
   
