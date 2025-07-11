@@ -1,5 +1,5 @@
 ### Hi there 👋
-- My research work primarily focuses on RFT (Reinforcement Finetuning) and VLM (Vision-Language Model).
+- My research primarily focuses on Reinforcement Fine-Tuning (RFT) and Vision-Language Models (VLMs). Additionally, I am exploring browser-based and computer-use agent systems. If you're interested in collaboration, feel free to reach out!
 - Core Contributor of [Skywork-R1V3](https://github.com/SkyworkAI/Skywork-R1V), more technical report please refers to 📰[tech report](https://arxiv.org/abs/2507.06167)
 - Main Contributor of [MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF), more technical report please refers to 📰[secrest of RLHF par1](https://arxiv.org/abs/2307.04964)
 - Here is my [academic page](https://fakerbaby.github.io/)
