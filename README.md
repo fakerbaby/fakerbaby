@@ -4,9 +4,6 @@
 - Main Contributor of [MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF), more technical details please refers to 📰[secrest of RLHF par1](https://arxiv.org/abs/2307.04964)
 - Here is my [academic page](https://fakerbaby.github.io/)
 
-  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fakerbaby&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fakerbaby&repo=Flare)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
