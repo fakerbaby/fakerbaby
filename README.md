@@ -1,22 +1,23 @@
-### Hi there 👋 （updated in 2025.07.11）
-- My research primarily focuses on Reinforcement Fine-Tuning (RFT) and Vision-Language Models (VLMs). Additionally, I am exploring browser-based and computer-use agent systems. If you're interested in collaboration, feel free to reach out!
-- Core Contributor of [Skywork-R1V3](https://github.com/SkyworkAI/Skywork-R1V), more technical details please refers to 📰[tech report](https://arxiv.org/abs/2507.06167)
-- Main Contributor of [MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF), more technical details please refers to 📰[secrest of RLHF par1](https://arxiv.org/abs/2307.04964)
-- Here is my [academic page](https://fakerbaby.github.io/)
+# Wei Shen | 沈蔚
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fakerbaby&repo=Flare)](https://github.com/anuraghazra/github-readme-stats) -->
+Senior ML Research Scientist at Skywork AI, focused on post-training, reasoning systems, RLHF, and multimodal agents for frontier foundation models. Previously at Baichuan and ByteDance Seed / AI Lab. M.S. in Computer Science from Fudan NLP.
 
-<!--
-**fakerbaby/fakerbaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Research Focus
 
-Here are some ideas to get you started:
+- Scalable post-training for reasoning models
+- RLHF, reward modeling, and anti-reward-gaming
+- Long-horizon agentic reinforcement learning
+- Multimodal reasoning and browser/search agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Highlights
+
+- Core contributor or lead across releases such as [Skywork-R1V3](https://github.com/SkyworkAI/Skywork-R1V), [Skywork-OR1](https://github.com/SkyworkAI/Skywork-OR1), and [MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF)
+- Research recognized with a NeurIPS Best Paper and an ICLR Spotlight
+- Work spanning research ideas, training pipelines, evaluation, and production-facing model development
+
+## Links
+
+- Homepage: [fakerbaby.github.io](https://fakerbaby.github.io/)
+- CV: [fakerbaby.github.io/cv](https://fakerbaby.github.io/cv/)
+- Google Scholar: [Profile](https://scholar.google.com/citations?user=-DlGT8IAAAAJ&hl=en)
+- Email: [weyshioncn@gmail.com](mailto:weyshioncn@gmail.com)
